@@ -1,0 +1,127 @@
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.exe
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.deps.json
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.runtimeconfig.json
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.LogIn.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.Properties.Resources.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.csproj.GenerateResource.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.AssemblyInfoInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.AssemblyInfo.cs
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.csproj.CoreCompileInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\refint\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.genruntimeconfig.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\ref\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.Account.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.CardForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.CatalogueForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.ProductForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.ItemUserControl.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.exe
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.deps.json
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.runtimeconfig.json
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.Account.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.CardForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.ItemUserControl.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.LogIn.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.ProductForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.Properties.Resources.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.csproj.GenerateResource.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.AssemblyInfoInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.AssemblyInfo.cs
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.csproj.CoreCompileInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\refint\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.genruntimeconfig.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\ref\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project BackUp 2\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.CatalogueForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Shop\DataBase Project\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.CartProductItem.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.exe
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.deps.json
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.runtimeconfig.json
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.Account.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.CardForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.CatalogueForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.ItemUserControl.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.LogIn.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.ProductForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация_и_вход_WinForms.Properties.Resources.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.csproj.GenerateResource.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.AssemblyInfoInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.AssemblyInfo.cs
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.csproj.CoreCompileInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\refint\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.genruntimeconfig.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\ref\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.exe
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.deps.json
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.runtimeconfig.json
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Авторизация и вход WinForms.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.csproj.GenerateResource.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.AssemblyInfoInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.AssemblyInfo.cs
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.csproj.CoreCompileInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\refint\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\Авторизация и вход WinForms.genruntimeconfig.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\ref\Авторизация и вход WinForms.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\cards.txt
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\catalogue.txt
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\addbutton1.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\addbutton2.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\avatar.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\avatar1.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\banner.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\banner.psd
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\banner2.psd
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\banner222.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\card.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\(1).avif
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\(1).png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\(1).webp
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\(2).png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\(2).webp
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\(3).png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\1.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\10.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\11.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\2.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\3.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\4.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\5.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\6.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\7.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\8.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\9.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\default.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\edit.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\exit.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\logo.ico
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\logo.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\logoApp.ico
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\main.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\main1.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\main3.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\search.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.Account.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CardForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CatalogueForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.ItemUserControl.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.LogIn.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.ProductForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.Properties.Resources.resources

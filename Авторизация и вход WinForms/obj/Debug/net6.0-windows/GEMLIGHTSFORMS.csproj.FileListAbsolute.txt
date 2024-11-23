@@ -1,0 +1,221 @@
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\cards.txt
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\catalogue.txt
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\addbutton1.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\addbutton2.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\banner.psd
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\banner2.psd
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\banner222.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\card.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\1.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\10.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\11.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\2.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\3.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\4.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\5.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\6.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\7.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\8.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\9.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\default.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\edit.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\exit.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\logo.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\logoApp.ico
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\search.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.exe
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.deps.json
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.runtimeconfig.json
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.Account.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CardForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CatalogueForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.ItemUserControl.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.LogIn.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.ProductForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.Properties.Resources.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.csproj.GenerateResource.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.AssemblyInfoInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.AssemblyInfo.cs
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.csproj.CoreCompileInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\refint\GEMLIGHTSFORMS.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.genruntimeconfig.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\ref\GEMLIGHTSFORMS.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\db.txt
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CartProductItem.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\carts.txt
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\AVATARS\default.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\260518142_863d89834320ae453d04a5334a72c239_800.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\yuvelirnye-izdeliia.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.exe
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\cards.txt
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\carts.txt
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\catalogue.txt
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\db.txt
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\addbutton1.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\addbutton2.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\AVATARS\default.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\banner.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\card.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\1.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\10.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\11.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\2.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\260518142_863d89834320ae453d04a5334a72c239_800.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\3.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\4.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\5.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\6.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\7.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\8.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\9.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\default.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\yuvelirnye-izdeliia.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\close1.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\close2.jpg
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\edit.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\exit.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\gmail.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\inst.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\logo.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\logoApp.ico
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\phone.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\search.png
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.deps.json
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.runtimeconfig.json
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.Account.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CardForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CartProductItem.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CatalogueForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.ItemUserControl.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.LogIn.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.ProductForm.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.Properties.Resources.resources
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.csproj.GenerateResource.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.AssemblyInfoInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.AssemblyInfo.cs
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.csproj.CoreCompileInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\refint\GEMLIGHTSFORMS.dll
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.genruntimeconfig.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\ref\GEMLIGHTSFORMS.dll
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.exe
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\cards.txt
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\carts.txt
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\catalogue.txt
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\db.txt
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\addbutton1.png
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\addbutton2.png
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\AVATARS\default.png
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\banner.png
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\card.png
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\1.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\10.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\11.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\2.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\260518142_863d89834320ae453d04a5334a72c239_800.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\3.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\4.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\5.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\6.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\7.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\8.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\9.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\default.png
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\yuvelirnye-izdeliia.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\close1.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\close2.jpg
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\edit.png
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\exit.png
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\gmail.png
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\inst.png
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\logo.png
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\logoApp.ico
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\phone.png
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\search.png
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.deps.json
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.runtimeconfig.json
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.dll
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.pdb
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.Account.resources
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CardForm.resources
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CartProductItem.resources
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CatalogueForm.resources
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.ItemUserControl.resources
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.LogIn.resources
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.ProductForm.resources
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.Properties.Resources.resources
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.csproj.GenerateResource.cache
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.AssemblyInfoInputs.cache
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.AssemblyInfo.cs
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.csproj.CoreCompileInputs.cache
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.dll
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\refint\GEMLIGHTSFORMS.dll
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.pdb
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.genruntimeconfig.cache
+C:\Users\foksa\Desktop\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\ref\GEMLIGHTSFORMS.dll
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.exe
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\cards.txt
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\carts.txt
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\catalogue.txt
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\db.txt
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\addbutton1.png
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\addbutton2.png
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\AVATARS\default.png
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\banner.png
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\card.png
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\1.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\10.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\11.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\2.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\260518142_863d89834320ae453d04a5334a72c239_800.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\3.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\4.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\5.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\6.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\7.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\8.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\9.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\default.png
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\CATALOGUE\yuvelirnye-izdeliia.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\close1.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\close2.jpg
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\edit.png
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\exit.png
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\gmail.png
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\inst.png
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\logo.png
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\logoApp.ico
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\phone.png
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\Data\images\search.png
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.deps.json
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.runtimeconfig.json
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.dll
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\bin\Debug\net6.0-windows\GEMLIGHTSFORMS.pdb
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.Account.resources
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CardForm.resources
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CartProductItem.resources
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.CatalogueForm.resources
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.ItemUserControl.resources
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.LogIn.resources
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.ProductForm.resources
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.Properties.Resources.resources
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.csproj.GenerateResource.cache
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.GeneratedMSBuildEditorConfig.editorconfig
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.AssemblyInfoInputs.cache
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.AssemblyInfo.cs
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.csproj.CoreCompileInputs.cache
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.dll
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\refint\GEMLIGHTSFORMS.dll
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.pdb
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\GEMLIGHTSFORMS.genruntimeconfig.cache
+G:\11.07.2024 RAB STOL\РПМ\Курсовая РПМ\GEMLIGHTS WITH COPYING\Авторизация и вход WinForms\obj\Debug\net6.0-windows\ref\GEMLIGHTSFORMS.dll

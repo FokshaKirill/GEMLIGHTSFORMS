@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CartProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CatalogueForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ItemUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LogAndReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Account.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CardForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CatalogueForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ItemUserControl.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="LogAndReg.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ProductForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

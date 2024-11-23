@@ -1,0 +1,31 @@
+﻿[*.cs]
+
+# CS8618: Поле, не допускающее значения NULL, должно содержать значение, отличное от NULL, при выходе из конструктора. Возможно, стоит объявить поле как допускающее значения NULL.
+dotnet_diagnostic.CS8618.severity = none
+
+# CS8600: Преобразование литерала, допускающего значение NULL или возможного значения NULL в тип, не допускающий значение NULL.
+dotnet_diagnostic.CS8600.severity = none
+
+# CS8604: Возможно, аргумент-ссылка, допускающий значение NULL.
+dotnet_diagnostic.CS8604.severity = none
+
+# CS0168: Переменная объявлена, но не используется
+dotnet_diagnostic.CS0168.severity = silent
+
+# IDE0090: Используйте "new(...)".
+dotnet_diagnostic.IDE0090.severity = silent
+
+# IDE1006: Стили именования
+dotnet_diagnostic.IDE1006.severity = none
+
+# IDE0017: Упростите инициализацию объекта
+dotnet_diagnostic.IDE0017.severity = none
+
+# IDE0044: Добавить модификатор только для чтения
+dotnet_diagnostic.IDE0044.severity = none
+
+# CA2211: Поля, не являющиеся константами, не должны быть видимыми
+dotnet_diagnostic.CA2211.severity = none
+
+# IDE0063: Использовать простой оператор using
+dotnet_diagnostic.IDE0063.severity = none
